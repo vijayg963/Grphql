@@ -1,0 +1,14 @@
+.rockets {
+  border: 5px solid rgb(212, 230, 236);
+  padding: 1rem 1.5rem;
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.rocketCard {
+  border: 5px solid rgb(231, 240, 216);
+  padding: 1rem 1.5rem;
+  border-radius: 0.5rem;
+}
